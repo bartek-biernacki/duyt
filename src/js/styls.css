@@ -1,0 +1,33 @@
+
+		html, body {
+			text-align: center;
+			margin:0;
+			padding:0;
+			background: #ffffff; 
+			color: #666666;
+		}		
+		
+		#outer {
+			position: absolute;
+			overflow: visible;
+		}		
+		
+		#canvasContainer { 
+			position: absolute;
+		}
+			
+		canvas { 
+			
+		}
+		
+		a {
+			color: #444444;
+			text-decoration:none;
+		}
+		a:hover {
+			color:#b2b2b2;
+			text-decoration: underline;
+		}
+		
+	
+		
